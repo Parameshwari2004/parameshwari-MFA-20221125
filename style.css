@@ -1,0 +1,78 @@
+body{
+    width: 1440px;
+    
+}
+header{
+    display: flex;
+    justify-content: space-between; 
+}
+.main{
+    
+    background-color:deepskyblue;
+    color: white;   
+    font-size: 30px;
+}
+span{
+    border: 2px solid white;
+    color: black;
+    background-color: white;
+    border-radius: 20px;
+    font-size: 15px;
+
+}
+.container ul{
+    display:flex;
+    justify-content: flex-end;
+    list-style-type:none ;
+ 
+ }
+ ul li{
+    display: inline-block;
+    padding: 5px 20px;
+ }
+ #orange{
+    margin-left:33%;
+ }
+ h1{
+    text-align: center;
+ }
+ .container1{
+    display: flex;
+    justify-content: space-between;
+   
+    margin-top:5px;
+ }
+ #egg{
+    margin-left: 20px;
+ }
+ .container2{
+    display: flex;
+   justify-content: space-between;
+    margin-top:10px;
+ }
+ .stand{
+    margin-left:10%;
+    margin-top:5%;
+    font-size:30px;
+ }
+ .brand{
+    margin-top:10%;
+    margin-left: 40px;
+    font-size: 30px;
+ }
+ .container3{
+    width: 1500px;
+    display: flex;
+    
+    margin-top: 30px;
+ }
+ .container3 .image{
+    width:730px;
+ }
+ .photo{
+    margin-left: 30px;
+ }
+ .all{
+    display: flex;
+    justify-content: space-evenly;
+ }
